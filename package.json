@@ -7,6 +7,9 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
+  "engines": {
+    "node": ">=s14.20.1"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
