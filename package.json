@@ -8,7 +8,7 @@
     "dev": "nodemon app.js"
   },
   "engines": {
-    "node": ">=s14.20.1"
+    "node": ">=14.20.1"
   },
   "keywords": [],
   "author": "",
